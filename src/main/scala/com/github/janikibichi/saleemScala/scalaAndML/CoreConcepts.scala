@@ -1,5 +1,7 @@
 package com.github.janikibichi.saleemScala.scalaAndML
 
+import scala.annotation.tailrec
+
 object CoreConcepts{
   def main(args: Array[String]){
     val x: Double = 10
